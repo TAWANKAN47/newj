@@ -1,0 +1,12 @@
+body {
+    margin: 0; /* Reset default body margin */
+  }
+  
+  .example-box {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 100px; /* Margin around the box */
+    padding: 60px; /* Padding inside the box */
+  }
+  
